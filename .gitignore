@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 环境变量
+.env
+
+# Mac / Windows 垃圾文件
+.DS_Store
+Thumbs.db
