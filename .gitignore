@@ -11,3 +11,4 @@ env/
 # Mac / Windows 垃圾文件
 .DS_Store
 Thumbs.db
+test.txt
